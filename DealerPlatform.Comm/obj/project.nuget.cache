@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ccu5VpaogBZL+MfeX4oGEmOG1IJ1dq9LSUyNxe+02N05fMIOLF4CQEj4YeJ3qoJJGgeQMjDEocWVy7alod5huA==",
+  "success": true,
+  "projectFilePath": "D:\\A所有項目\\DealerPlatform\\DealerPlatform.Comm\\DealerPlatform.Comm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frank_wang\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\frank_wang\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\frank_wang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\frank_wang\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\frank_wang\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\frank_wang\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
